@@ -1,0 +1,15 @@
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/bin/Debug/net10.0/MyFirstProject
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/bin/Debug/net10.0/MyFirstProject.deps.json
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/bin/Debug/net10.0/MyFirstProject.runtimeconfig.json
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/bin/Debug/net10.0/MyFirstProject.dll
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/bin/Debug/net10.0/MyFirstProject.pdb
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/MyFirstProject.AssemblyInfoInputs.cache
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/MyFirstProject.AssemblyInfo.cs
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/MyFirstProject.sourcelink.json
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/MyFirstProject.dll
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/refint/MyFirstProject.dll
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/MyFirstProject.pdb
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/MyFirstProject.genruntimeconfig.cache
+/home/abdulhakeem/Dev/Github/freecodecamp-csharp/MyFirstProject/obj/Debug/net10.0/ref/MyFirstProject.dll
